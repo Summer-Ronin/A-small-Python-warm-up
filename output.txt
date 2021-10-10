@@ -1,0 +1,4 @@
+Hello : 6
+World : 5
+I : 1
+am : 1
